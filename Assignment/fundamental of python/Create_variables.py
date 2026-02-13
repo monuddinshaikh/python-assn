@@ -9,7 +9,7 @@ height = 5.9
 print("Height:", height)
 
 # String variable
-name = "Ravi"
+name = "moin"
 print("Name:", name)
 
 # Boolean variable
