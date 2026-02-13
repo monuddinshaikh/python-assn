@@ -9,7 +9,7 @@ price = 199.99
 print("Price:", price, "| Data type:", type(price))
 
 # String
-name = "Ravi"
+name = "moin"
 print("Name:", name, "| Data type:", type(name))
 
 # Boolean
@@ -29,7 +29,7 @@ unique_numbers = {1, 2, 3, 3, 4}
 print("Unique Numbers:", unique_numbers, "| Data type:", type(unique_numbers))
 
 # Dictionary (key-value pairs)
-student = {"name": "Ravi", "age": 21, "course": "Python"}
+student = {"name": "moin", "age": 21, "course": "Python"}
 print("Student Info:", student, "| Data type:", type(student))
 
 # NoneType
