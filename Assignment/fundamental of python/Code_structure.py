@@ -1,7 +1,7 @@
 # 1. Comment: This is a Student Result Program
 
 # 2. Variables
-student_name = "Ravi"
+student_name = "moin"
 marks = 72
 
 # 3. Output
